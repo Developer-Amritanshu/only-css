@@ -1,0 +1,33 @@
+#text {
+  width: 500px;
+  border: 1px solid black;
+
+  /* color: blue; */
+
+  /* text-align: justify; */
+
+  /* direction: rtl; */
+
+  /* text-decoration: overline; */
+
+  /* text-transform: capitalize; */
+
+  /* line-height: 50px; */
+
+  /* text-indent: 50px; */
+
+  /* letter-spacing: 2px; */
+
+  /* word-spacing: 10px; */
+
+  /* white-space: pre; */
+
+  /* word-wrap: break-word; */
+}
+
+
+#shadow {
+  font-size: 50px;
+  text-shadow: 4px 8px 6px black;
+  /* writing-mode: vertical-lr; */
+}
