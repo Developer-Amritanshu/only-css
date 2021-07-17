@@ -1,0 +1,27 @@
+#div1 {
+  
+  /* height: 500px;
+  width: 70%;
+  min-height: 900px;
+  min-width: 1800px; */
+
+  border: 1px solid red;
+  /* padding-top: 10px;
+  padding-left: 50%;
+  padding-right: 10px;
+  padding-bottom: 60px; */
+
+  /* padding: 50px; */
+  /* padding: 25px 25px 0px 10px; */
+
+  /* margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  margin-right: 60px; */
+
+  margin: 10px 10px 25px 25px;
+}
+
+body {
+  border: 5px dashed black;
+}
