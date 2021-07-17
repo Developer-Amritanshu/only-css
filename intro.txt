@@ -1,0 +1,7 @@
+-> Cascading Style Sheet
+
+-> Css describes how HTML elements are to be displayed on screen, paper, or in other media
+
+-> HTML - What to Display
+-> CSS - How to Display
+
