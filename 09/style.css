@@ -10,10 +10,17 @@
   cursor: pointer;
 } */
 
-#box {
+/* #box {
   height: 100px;
   width: 100px;
   background-color: green;
   margin: 50px;
   opacity: 0.3;
+} */
+
+#sprite {
+  height: 80px;
+  background-image: url('./1.png');
+  background-repeat: no-repeat;
+  background-position: 0 -100px;
 }
