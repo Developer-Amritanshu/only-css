@@ -1,0 +1,9 @@
+:root {
+  --primary-color: green;
+}
+
+#fun{
+  background-color: var(--primary-color);
+  height: 200px;
+  width: calc(100% - 200px);
+}
