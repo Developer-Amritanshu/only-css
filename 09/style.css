@@ -18,9 +18,17 @@
   opacity: 0.3;
 } */
 
-#sprite {
+/* #sprite {
   height: 80px;
   background-image: url('./1.png');
   background-repeat: no-repeat;
   background-position: 0 -100px;
+} */
+
+#overflow {
+  background-color: yellow;
+  border: 1px solid gray;
+  width: 200px;
+  height: 250px;
+  overflow: auto;
 }
