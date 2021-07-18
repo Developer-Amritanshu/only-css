@@ -1,11 +1,19 @@
-div {
+/* div {
   border: 1px solid green;
   background-color: greenyellow;
   width: 400px;
   margin: 100px;
   padding: 20px;
   box-shadow: 8px 16px 10px 2px green;
-  /* box-shadow: 8px 16px 10px 2px green inset; */
-  /* cursor: auto; default */
-  /* cursor: pointer; */
+  box-shadow: 8px 16px 10px 2px green inset;
+  cursor: auto; default
+  cursor: pointer;
+} */
+
+#box {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  margin: 50px;
+  opacity: 0.3;
 }
