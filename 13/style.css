@@ -3,8 +3,13 @@
   width: 100px;
   background-color: yellowgreen;
   margin: 100px;
+  transition-property: width, background-color;
+  transition-duration: 2s;
+  /* transition-delay: 500ms; */
+  /* transition-timing-function: ease; */
 }
 
 #div1:hover{
   width: 200px;
+  background-color: red;
 }
