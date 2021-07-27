@@ -19,3 +19,13 @@
   animation-duration: 2s;
   animation-iteration-count: 3;
 }
+#animate2{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  animation-name: changecolor;
+  animation-duration: 2s;
+  animation-iteration-count: 3;
+  animation-direction: reverse;
+  animation-timing-function: ease-in-out;
+}
