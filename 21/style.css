@@ -1,0 +1,56 @@
+/* element selector */
+li{
+  color: red;
+}
+
+/* id selector */
+#list2{
+  color: green;
+}
+
+/* class selector */
+.list5{
+  color: orange;
+}
+
+/* pseudo class */
+li:hover{
+  font-size: 24px;
+}
+
+/* pseudo element */
+p::first-line{
+  font-size: 24px;
+}
+
+
+/* attribute selector */
+a[href="https://www.google.com"]{
+  font-size: 24px;
+}
+
+/* universal selector */
+*{
+  border: 1px solid red;
+}
+
+/* adjacent sibling */
+div a{
+  font-style: italic;
+}
+
+
+/* direct child */
+div>a{
+  font-size: 4px;
+}
+
+/* just sibling */
+div + a{
+  color: teal;
+}
+
+/* normal sibling */
+div ~ a{
+  font-size: 28px;
+}
