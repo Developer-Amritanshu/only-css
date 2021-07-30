@@ -4,4 +4,9 @@ div{
   column-rule-style: solid;
   column-rule-width: 1px;
   column-rule-color:red ;
+  column-width: 300px;
+}
+
+h1{
+  column-span:all;
 }
