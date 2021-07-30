@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  border: 1px solid red;
+}
+
+header{
+  height:80px;
+  background-color: black;
+}
+
+footer{
+  height:80px;
+  background-color: black;
+}
+
+.flex-container{
+  background-color: #fff;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+}
+
+.flex-child{
+  text-align: center;
+}
+
+
+p{
+  text-align: right;
+  color: red;
+}
